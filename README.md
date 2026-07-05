@@ -1,4 +1,4 @@
-#tm4c-systick-multitasker
+# tm4c-systick-multitasker
 bare-metal multitasker that uses several timers and a state machine
 ## features
 
